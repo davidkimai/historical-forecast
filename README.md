@@ -35,7 +35,7 @@ Each domain focuses on **bottom-up recursive intelligence creation**—as seen i
 
 | **Vector**               | **Measurable Signal**                                                                        | **Historical Mirror**                       | **Current Signal in Interpretability**                       |
 | ------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------ |
-| 🔀 Fork Genesis          | Frequency of forks in interpretability repositories (e.g., captum, triton, neuron-explainer) | Linux kernel forks, BitTorrent              | LLaMA adaptations, LoRA infusion into interpretable layers   |
+| 🔀 Clone/Fork Genesis          | Frequency of clone/forks in interpretability repositories (e.g., captum, triton, neuron-explainer) | Linux kernel forks, BitTorrent              | LLaMA adaptations, LoRA infusion into interpretable layers   |
 | 🌱 Protocol Emergence    | Creation rate of custom `.p/` or `.rec` protocol formats                                     | SMTP, HTTP, GPG, Ethereum EIPs              | PARETO-lang, recursive shell formats, symbolic glyph engines |
 | 🧩 Attribution Evolution | # of tools for token tracing, attribution gaps, and attention diffusion                      | Wireshark for packet tracing                | exBERT, Interpretability Dashboard, GPTNeoX neuron viewers   |
 | 📦 Modularization        | Reusability of interpretability layers as standalone packages                                | GNU toolchain, Debian packages              | Hook-based tools like `TransformerLens`, `LogitLens`         |
